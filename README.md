@@ -2,7 +2,7 @@
 Clone website
 Practice purpose
 
-# [Live demo] ( https://rutuja20901.github.io/Salon-website/ )
+# [Live demo]( https://rutuja20901.github.io/Salon-website/ )
 
 #Built with
 
